@@ -1,0 +1,29 @@
+p {
+    text-align: center;
+    color: aliceblue;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+body {
+   /* background: rgb(2, 0, 36);*/
+   background: linear-gradient(to right, #0c016e, #ae00ff);
+}
+
+#submit{
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+}
+#username{
+    background-color: antiquewhite;
+}
+#password{
+    background-color: antiquewhite;
+
+}
